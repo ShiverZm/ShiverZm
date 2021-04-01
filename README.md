@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 ### Android
 
+![[android] java](https://img.shields.io/badge/java-333333?style=flat-square&logo=Android&logoColor=white)
+
 ## 统计
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=ShiverZm&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
