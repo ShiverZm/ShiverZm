@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 
 ### Web 后端
 
-![[java] ssh ssm sb](https://img.shields.io/badge/java-333333?style=flat-square&logo=C-Sharp&logoColor=white)
+![[java] ssh ssm sb](https://img.shields.io/badge/java-333333?style=flat-square&logo=Java&logoColor=white)
 
+### Android
 
 ## 统计
 
